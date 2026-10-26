@@ -9,51 +9,52 @@
 </p>
 
 ## 💫 About Me
-- 🎓 B.Tech CSE student specializing in **AI & Machine Learning**
+
+- 🎓 B.Tech CSE student specializing in AI & Machine Learning
 - 💻 Interested in Java, Backend & Web Development
-- 🤖 Working on AI-powered projects like **Project NOVA**
-- 🛠️ Built a Hand Gesture Controlled Car
-- 📚 Always learning and exploring new technologies
+- 🤖 Building AI-powered projects like **Project NOVA**
+- 🚗 Developed a Hand Gesture Controlled Car
+- 📚 Learning new technologies and improving my skills
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,express,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ## 🚀 Featured Projects
 
 - 🛡️ **Project NOVA** — AI-Powered Cyber Safety Agent
-- 🚗 **Hand Gesture Controlled Car** — Arduino-based robotics project
+- 🚗 **Hand Gesture Controlled Car** — Arduino-based robotics
 - 🚆 **SRTMS** — Smart Railway Track Monitoring System
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanchita99560&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchita99560&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanchita99560&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchita99560&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sanchita-yadav-399773329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sanchita_yadav_06/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/Sanchita99560" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ *"Learning today, building tomorrow!"* ✨
+  ✨ "Learning today, building tomorrow!" ✨
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Animated Footer" />
 </p>
