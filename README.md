@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanchita Yadav!
 
-<!--
-**Sanchita99560/Sanchita99560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(AIML)+Student;Java+%7C+Backend+Development;Exploring+AI+%26+Web+Development;Building+Projects+%26+Learning+Every+Day" alt="Typing Animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Aspiring Software Developer | 💻 Tech Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+- 🎓 B.Tech CSE student specializing in **AI & Machine Learning**
+- 💻 Interested in Java, Backend & Web Development
+- 🤖 Working on AI-powered projects like **Project NOVA**
+- 🛠️ Built a Hand Gesture Controlled Car
+- 📚 Always learning and exploring new technologies
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+## 🚀 Featured Projects
+
+- 🛡️ **Project NOVA** — AI-Powered Cyber Safety Agent
+- 🚗 **Hand Gesture Controlled Car** — Arduino-based robotics project
+- 🚆 **SRTMS** — Smart Railway Track Monitoring System
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanchita99560&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchita99560&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanchita99560" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *"Learning today, building tomorrow!"* ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
